@@ -5,7 +5,7 @@ author: Colin Jones
 description: "Clojure macros are fun. Let's look at some together."
 baseurl: ""
 url: "http://clojuremacros.com"
-google_analytics:
+google_analytics: "UA-54420213-1"
 
 # Build settings
 markdown: kramdown
