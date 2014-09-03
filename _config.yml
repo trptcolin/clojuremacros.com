@@ -1,0 +1,13 @@
+# Site settings
+title: "Clojure Macros: Let Us Count the Ways"
+email: trptcolin@gmail.com
+author: Colin Jones
+description: "Clojure macros are fun. Let's look at some together."
+baseurl: ""
+url: "http://clojuremacros.com"
+google_analytics:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
