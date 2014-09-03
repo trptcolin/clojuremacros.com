@@ -6,6 +6,7 @@ description: "Clojure macros are fun. Let's look at some together."
 baseurl: ""
 url: "http://clojuremacros.com"
 google_analytics: "UA-54420213-1"
+disqus_shortname: "clojuremacros"
 
 # Build settings
 markdown: kramdown
